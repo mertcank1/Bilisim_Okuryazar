@@ -12,3 +12,5 @@ TBTK Lecture_4 = 4.Hafta Ders notu
 TBTK Lecture_5 = 5.Hafta Ders notu
 
 TBTK Lecture_6 = 6.Hafta Ders notu
+
+TBTK Lecture_7 = 7.Hafta Ders notu
